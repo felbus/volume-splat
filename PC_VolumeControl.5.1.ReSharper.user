@@ -1,0 +1,130 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="label1" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="float" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="var" priority="0" />
+      <Item value="content" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="MinNegValue" priority="1" />
+      <Item value="MinPosValue" priority="0" />
+      <Item value="MaxPosValue" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="this" priority="3" />
+      <Item value="if" priority="2" />
+      <Item value="ContentToFloat`0" priority="0" />
+      <Item value="lblVolume" priority="1" />
+      <Item value="bool" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="ImeSentenceModeValues`0" priority="0" />
+      <Item value="isMin" priority="0" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="settingValue" priority="0" />
+      <Item value="extreme" priority="0" />
+      <Item value="MinExtreme" priority="0" />
+      <Item value="MaxEtreme" priority="0" />
+      <Item value="DragMove`0" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="WindowStartupLocation" priority="0" />
+      <Item value="Window`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VolumePoo.MainWindow">
+      <Item value="Dispatcher" priority="2" />
+      <Item value="TranslatePoint`0" priority="0" />
+      <Item value="WindowStartupLocation" priority="0" />
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="CheckAccess`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.WindowStartupLocation">
+      <Item value="Manual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VolumePoo.MainWindow">
+      <Item value="MouseWheelEvent" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EDCDE937-2C83-49A6-A9B8-332AED11EABE/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="EDCDE937-2C83-49A6-A9B8-332AED11EABE/f:Form1.cs" caret="963" fromTop="15" />
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioEndpointVolumeCallback.cs" caret="0" fromTop="0" />
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioMeterInformationChannels.cs" caret="568" fromTop="0" />
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioEndpointVolumeStepInformation.cs" caret="0" fromTop="0" />
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioEndPointVolumeVolumeRange.cs" caret="0" fromTop="0" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml" caret="402" fromTop="5" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="1923" fromTop="14" />
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioEndpointVolume.cs" caret="3086" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9F1076AA-63DF-4128-9C10-FD65E425C783/f:AudioMeterInformationChannels.cs" caret="1045" fromTop="0" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="4442" fromTop="53" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="4432" fromTop="16" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="4442" fromTop="24" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="386" fromTop="3" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3486" fromTop="27" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="1368" fromTop="12" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="606" fromTop="23" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="2420" fromTop="16" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="2404" fromTop="14" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3382" fromTop="26" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3201" fromTop="28" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="849" fromTop="28" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3172" fromTop="18" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3211" fromTop="18" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3716" fromTop="30" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3453" fromTop="24" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="3980" fromTop="36" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="4243" fromTop="42" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="2847" fromTop="9" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="2715" fromTop="9" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="4405" fromTop="36" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml" caret="827" fromTop="7" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="1167" fromTop="15" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="1594" fromTop="18" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml" caret="326" fromTop="5" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="2144" fromTop="15" />
+      <File id="19DD8A77-9FB0-4166-9BF4-C27A79188ABA/f:MainWindow.xaml.cs" caret="1923" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

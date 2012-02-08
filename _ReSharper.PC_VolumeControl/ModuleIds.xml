@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="9F1076AA-63DF-4128-9C10-FD65E425C783" ModuleId="CoreAudioApi" />
+  <Module PersistentId="19DD8A77-9FB0-4166-9BF4-C27A79188ABA" ModuleId="VolumePoo" />
+  <Module PersistentId="EDCDE937-2C83-49A6-A9B8-332AED11EABE" ModuleId="CoreAudioSample" />
+</Modules>

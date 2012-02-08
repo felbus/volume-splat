@@ -1,0 +1,14 @@
+﻿<Window x:Class="VolumePoo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="113" Width="211"
+        WindowStyle="None" AllowsTransparency="True" ResizeMode="CanResizeWithGrip" 
+        Background="#00000000" FontWeight="Bold" MouseWheel="MainWindow_MouseWheel">
+    <Grid Height="74" Width="184">
+        <Button Content="-5" Height="23" HorizontalAlignment="Left" Margin="56,37,0,0" Name="btnMinusFive" VerticalAlignment="Top" Width="32" Click="btnMinusFive_Click" Background="#FFF26060" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="77,12,0,0" Name="lblVolume" VerticalAlignment="Top" Width="28" MouseLeftButtonDown="lblVolume_MouseLeftButtonDown" Foreground="#FF0098FF" />
+        <Button Content="+5" Height="23" HorizontalAlignment="Left" Margin="94,37,0,0" Name="btnPlusFive" VerticalAlignment="Top" Width="32" BorderBrush="Black" Background="#FF7AC159" Click="btnPlusFive_Click" />
+        <Button Content="+10" Height="23" HorizontalAlignment="Left" Margin="132,37,0,0" Name="btnPlusTen" VerticalAlignment="Top" Width="32" Background="#FF3EFF00" Click="btnPlusTen_Click" />
+        <Button Content="-10" Height="23" HorizontalAlignment="Left" Margin="18,37,0,0" Name="btnMinusTen" VerticalAlignment="Top" Width="32" Background="Red" Click="btnMinusTen_Click" />
+    </Grid>
+</Window>

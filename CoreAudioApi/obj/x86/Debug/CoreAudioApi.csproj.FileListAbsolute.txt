@@ -1,0 +1,10 @@
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioApi\bin\x86\Debug\CoreAudioApi.dll
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioApi\bin\x86\Debug\CoreAudioApi.pdb
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioApi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioApi\obj\x86\Debug\CoreAudioApi.dll
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioApi\obj\x86\Debug\CoreAudioApi.pdb
+D:\Git\VolumeSplat\CoreAudioApi\bin\x86\Debug\CoreAudioApi.dll
+D:\Git\VolumeSplat\CoreAudioApi\bin\x86\Debug\CoreAudioApi.pdb
+D:\Git\VolumeSplat\CoreAudioApi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Git\VolumeSplat\CoreAudioApi\obj\x86\Debug\CoreAudioApi.dll
+D:\Git\VolumeSplat\CoreAudioApi\obj\x86\Debug\CoreAudioApi.pdb

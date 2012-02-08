@@ -1,0 +1,16 @@
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe.config
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.pdb
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.dll
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.pdb
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\CoreAudioConsoleTest.exe
+C:\Users\Paul\Downloads\PC_VolumeControl\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\CoreAudioConsoleTest.pdb
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe.config
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.exe
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioConsoleTest.pdb
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.dll
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\bin\Debug\CoreAudioApi.pdb
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\CoreAudioConsoleTest.exe
+D:\Git\VolumeSplat\CoreAudioSample\CoreAudioConsoleTest\obj\Debug\CoreAudioConsoleTest.pdb
